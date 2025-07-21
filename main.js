@@ -30,6 +30,7 @@ class Field {
 		console.log(this.field); // Please REMOVE this line before you start your code!
 	}
 
+	
 	// Your Code //
 }
 
