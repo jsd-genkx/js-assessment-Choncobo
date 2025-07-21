@@ -131,10 +131,14 @@
 
 ### Thinking Process
 
-1. // step 1
-2. // step 2
-3. // ...
-4. // step n
+// Step 1: สร้าง class Field และกำหนดค่าเริ่มต้น (ตำแหน่ง 0,0)
+// Step 2: สร้าง print() สำหรับแสดงแผนที่ใน terminal
+// Step 3: สร้าง method move(direction) สำหรับให้ผู้เล่นเลือกทิศทาง
+// Step 4: เช็กกรณีแพ้ (หลุม, เดินออกนอกสนาม) และกรณีชนะ (เจอหมวก)
+// Step 5: อัปเดตตำแหน่งใหม่ด้วย pathCharacter
+// Step 6: สร้าง static generateField สำหรับสุ่มแผนที่
+// Step 7: สร้าง game loop ที่รับ input และเล่นได้ใน terminal
+
 
 _Notes:_<br>
 _- You can attach flowcharts, diagrams, and images as needed._<br>
